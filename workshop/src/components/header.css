@@ -1,0 +1,17 @@
+.header {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  justify-items: center;
+}
+
+.avatar {
+  border-width: 1px;
+  border-style: outset;
+  border-color: #000;
+  border-radius: 50%;
+}
+.info {
+  text-align: center;
+  border-radius: 9%;
+  background-color: #777;
+}
